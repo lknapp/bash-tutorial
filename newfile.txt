@@ -1,0 +1,2 @@
+This string will replace newfile.txt
+But this string will be added to newfile.txt

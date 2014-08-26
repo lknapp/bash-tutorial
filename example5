@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "This string will replace newfile.txt" > newfile.txt
+echo "But this string will be added to newfile.txt" >> newfile.txt
+

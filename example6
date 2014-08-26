@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#output the line in newfile that includes replace
+cat newfile.txt | grep replace

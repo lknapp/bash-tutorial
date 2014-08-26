@@ -1,0 +1,10 @@
+#!/bin/bash
+clear
+echo "An example setting variables:"
+
+ADJECTIVE="fluffy"
+ANIMAL="chicken"
+VERB="jumped" #past tense
+ADVERB="crazily"
+
+echo "The $ADJECTIVE $ANIMAL $VERB $ADVERB!" 

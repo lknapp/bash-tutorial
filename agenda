@@ -1,0 +1,28 @@
+What is bash?
+
+Writing and executing a script
+  example1
+
+Some diagnostic tools
+  example2
+
+Using variables
+  example3
+
+Adding flags
+  example 4
+
+Aliasing
+  .bashrc
+
+Redirecting output
+  example5
+
+Piping & cat
+  example6
+
+Getting help & understanding man
+
+
+
+Credits: http://tldp.org/
